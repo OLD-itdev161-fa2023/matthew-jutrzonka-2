@@ -9,6 +9,7 @@ const PostList = props => {
             post={post}
             clickPost={clickPost}
             deletePost={deletePost}
+            editPost={editPost}
         />
     ));
 };
